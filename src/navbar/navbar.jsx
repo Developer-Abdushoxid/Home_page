@@ -23,7 +23,7 @@ export default function Navbar() {
         </div>
         
         <div className='mr-32 mt-16'>
-            <img src={Coin} className='h-[250px] w-[400px]' />
+            <img src={Coin} alt='LOGO' className='h-[250px] w-[400px]' />
         </div>
     </div>
     <div className='flex items-center gap-12 font-semibold text-lg text-amber-400 '>
@@ -39,3 +39,5 @@ export default function Navbar() {
     
   )
 }
+
+

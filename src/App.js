@@ -1,12 +1,9 @@
-import Navbar from "./navbar/navbar"
+// import Navbar from "./navbar/navbar"
 
-const App = () => {
-  return (
-      
-      <Navbar />
-   
-   
-  )
-}
+// const App = () => {
+//   return (  
+//        <Navbar />
+//   )
+// }
 
-export default App
+// export default App
